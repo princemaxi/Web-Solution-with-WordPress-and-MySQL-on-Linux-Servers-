@@ -888,7 +888,6 @@ You should see the WordPress Setup Page. Complete the installation by providing:
 - Click Install WordPress.
 ![images](/images/64.png)
 ![images](/images/65.png)
-![images](/images/66.png)
 
 ✅ Congratulations! 🎉 You’ve now fully deployed WordPress on a Red Hat-based LAMP stack with the web and database servers separated.
 
